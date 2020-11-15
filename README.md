@@ -1,4 +1,4 @@
-# Self_Driving_Car
+# Self Driving Car
 
 This was a summer project of my own, where first I turn an RC car into a car controlled with voice commands with the help of Google API and using a raspberry pi to control the motors. Second, I used a webcam and Machine Learning to make the car recognize stop signs. The last part of the project will be using Machine Learning to make this toy an autonomous car.
 For now, the project contains only the software part, but soon, I will also put here the hardware part.
